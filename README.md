@@ -28,5 +28,5 @@ $ php artisan test
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/GwViKwP.png)
+![](https://i.imgur.com/24I1kIl.png)
 > 當沒做任何修改時，測試會繼續使用相同的資料庫而不重置
