@@ -1,4 +1,4 @@
-# Laravel 10 每次測試完快速重置資料庫
+# Laravel 11 每次測試完快速重置資料庫
 
 引入 plannr 的 laravel-fast-refresh-database 套件來擴增每次測試完快速重置資料庫，其實不需要在每次運行測試時都運行資料庫重置，只需在建立遷移檔或修改既有遷移時運行。
 
@@ -28,5 +28,5 @@ $ php artisan test
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/24I1kIl.png)
+![](https://i.imgur.com/MMuCUjN.png)
 > 當沒做任何修改時，測試會繼續使用相同的資料庫而不重置
